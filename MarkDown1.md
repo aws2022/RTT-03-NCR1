@@ -6,7 +6,7 @@
 >> What is?
 >>> Forget About It.
 ~~ Forget About What~~
-\\\
+\
 Oh, Boy!!
 Today is going to be a long day.
-\\\
+\
